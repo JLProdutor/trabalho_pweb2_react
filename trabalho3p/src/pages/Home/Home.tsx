@@ -24,7 +24,7 @@ import auto from "../../img/album_slipknot.webp";
 import iowa from "../../img/album_iowa.jpg";
 import subliminal from "../../img/album_subliminal.jpg";
 import hope from "../../img/album_hope.jpg";
-import grey from "../../img/album_grey.webp";
+import gray from "../../img/album_grey.webp";
 import kind from "../../img/album_kind.png";
 import end from "../../img/album_end.webp";
 
@@ -527,6 +527,7 @@ export const Home = () => {
             <br />
             <p className='texto'>"Iowa"</p>
             <br /><br />
+            <h2 className='subtitulo'>Vol. 3:(The Subliminal Verses)</h2>
             <div>
                 <img src={subliminal} alt="" />
             </div>
@@ -588,8 +589,104 @@ export const Home = () => {
             <br />
             <p className='texto'>"All Hope Is Gone"</p>
             <br /><br />
-            <h2 className='subtitulo'>Vol. 3:(The Subliminal Verses)</h2>
+            <h2 className='subtitulo'>.5: The Grey Chapter</h2>
             <br />
+            <div>
+                <img src={gray} alt="" />
+            </div>
+            <br />
+            <p className='texto'>"XIX"</p>
+            <br />
+            <p className='texto'>"Sarcastrophe"</p>
+            <br />
+            <p className='texto'>"AOV"</p>
+            <br />
+            <p className='texto'>"The Devil in I"</p>
+            <br />
+            <p className='texto'>"Killpop"</p>
+            <br />
+            <p className='texto'>"Skeptic"</p>
+            <br />
+            <p className='texto'>"Lech"</p>
+            <br />
+            <p className='texto'>"Goodbye"</p>
+            <br />
+            <p className='texto'>"Nomadic"</p>
+            <br />
+            <p className='texto'>"The One That Kills the Least"</p>
+            <br />
+            <p className='texto'>"Custer"</p>
+            <br />
+            <p className='texto'>"Be Prepared for Hell"</p>
+            <br />
+            <p className='texto'>"The Negative One"</p>
+            <br />
+            <p className='texto'>"If Rain Is What You Want" </p>
+            <br /><br />
+            <h2 className='subtiutlo'>We Are Not Your Kind</h2>
+            <br />
+            <div>
+                <img src={kind} alt="" />
+            </div>
+            <br />
+            <p className='texto'>"Insert Coin"</p>
+            <br />
+            <p className='texto'>"Unsainted"</p>
+            <br />
+            <p className='texto'>"Birth of the Cruel"</p>
+            <br />
+            <p className='texto'>"Death Because of Death"</p>
+            <br />
+            <p className='texto'>"Nero Forte"</p>
+            <br />
+            <p className='texto'>"Critical Darling"</p>
+            <br />
+            <p className='texto'>"A Liar's Funeral"</p>
+            <br />
+            <p className='texto'>"Red Flag"</p>
+            <br />
+            <p className='texto'>"What's Next"</p>
+            <br />
+            <p className='texto'>"Spiders"</p>
+            <br />
+            <p className='texto'>"Orphan"</p>
+            <br />
+            <p className='texto'>"My Pain"</p>
+            <br />
+            <p className='texto'>"Not Long for This World"</p>
+            <br />
+            <p className='texto'>"Solway Firth"</p>
+            <br /><br />
+            <h2 className='subtitulo'>The End, So Far (LANÇANDO)</h2>
+            <br />
+            <div>
+                <img src={end} alt="" />
+            </div>
+            <br />
+            <p className='texto'>"Adderall"</p>
+            <br />
+            <p className='texto'>"The Dying Song (Time to Sing)"</p>
+            <br />
+            <p className='texto'>"THe Chapeltown Rag"</p>
+            <br />
+            <p className='texto'>"Yen"</p>
+            <br />
+            <p className='texto'>"Hivermind"</p>
+            <br />
+            <p className='texto'>"Warranty"</p>
+            <br />
+            <p className='texto'>"Medicine for the Dead"</p>
+            <br />
+            <p className='texto'>"Acidic"</p>
+            <br />
+            <p className='texto'>"Heirloom"</p>
+            <br />
+            <p className='texto'>"H377"</p>
+            <br />
+            <p className='texto'>"De Sade"</p>
+            <br />
+            <p className='texto'>"Finale"</p>
+            <br /><br />
         </>
     )
 }
