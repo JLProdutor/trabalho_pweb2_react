@@ -1,0 +1,49 @@
+body{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgb(114, 21, 21),black);
+}
+
+.logo img{
+    position: relative;
+    height: auto;
+    width: auto;
+    max-height: 62px;
+    margin-top: 10px;
+    padding-left: 40px;
+}
+
+.logo{
+    display: flex;
+}
+
+.Menu{
+    background-color: white;
+    color: black;
+}
+
+.Menu ul li{
+    display: inline;
+    padding: 30px;
+}
+
+.Menu ul li a{
+    color: rgb(177, 43, 43);
+    position: relative;
+    text-decoration: none;
+    text-decoration-line: none;
+    padding: 25px;
+    top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+#cabeca{
+    color: black;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,33 @@
+#pe{
+    background-color: white;
+    color: black;
+}
+.social img{
+    display: inline;
+    width: 100px;
+    justify-content: space-between;
+    position: relative;
+    padding-left: 10px;
+}
+
+.social{
+    padding-left: 800px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    gap: 2rem;
+    justify-content: center;
+}
+
+a{
+    color: rgb(177, 43, 43);
+}
+
+#foottexto{
+    text-align: center;
+}
