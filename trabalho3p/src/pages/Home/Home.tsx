@@ -496,36 +496,99 @@ export const Home = () => {
             <h2 className='subtitulo'>Iowa</h2>
             <br />
             <div>
-                <img src={subliminal} alt="" />
+                <img src={iowa} alt="" />
             </div>
             <br />
             <p className='texto'>"(515)"</p>
             <br />
             <p className='texto'>"People = Shit"</p>
             <br />
-            <p className='texto'>+"Disasterpiece"</p>
+            <p className='texto'>"Disasterpiece"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"My Plague"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Everything Ends"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"The Heretic Anthem"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Gently" </p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Left Behind"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"The Shape" </p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"I Am Hated"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Skin Ticket" </p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"New Abortion"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Metabolic"</p>
             <br />
-            <p className='texto'></p>
+            <p className='texto'>"Iowa"</p>
+            <br /><br />
+            <div>
+                <img src={subliminal} alt="" />
+            </div>
+            <br />
+            <p className='texto'>"Prelude 3.0"</p>
+            <br />
+            <p className='texto'>"The Blister Exists"</p>
+            <br />
+            <p className='texto'>"Three Nil"</p>
+            <br />
+            <p className='texto'>"Duality"</p>
+            <br />
+            <p className='texto'>"Opium of the People"</p>
+            <br />
+            <p className='texto'>"Circle"</p>
+            <br />
+            <p className='texto'>"Welcome"</p>
+            <br />
+            <p className='texto'>"Vermilion"</p>
+            <br />
+            <p className='texto'>"Pulse of the Maggots"</p>
+            <br />
+            <p className='texto'>"Before I Forget"</p>
+            <br />
+            <p className='texto'>"Vermilion Pt. 2"</p>
+            <br />
+            <p className='texto'>"The Nameless"</p>
+            <br />
+            <p className='texto'>"The Virus of Life"</p>
+            <br />
+            <p className='texto'>"Danger - Keep Away"</p>
+            <br /><br />
+            <h2 className='subtitulo'>All Hope Is Gone</h2>
+            <br />
+            <div>
+                <img src={hope} alt="" />
+            </div>
+            <p className='texto'>".Execute."</p>
+            <br />
+            <p className='texto'>"Gematria (The Killing Name)"</p>
+            <br />
+            <p className='texto'>"Sulfur" </p>
+            <br />
+            <p className='texto'>"Psychosocial"</p>
+            <br />
+            <p className='texto'>"Dead Memories" </p>
+            <br />
+            <p className='texto'>"Vendetta"</p>
+            <br />
+            <p className='texto'>"Butcher's Hook"</p>
+            <br />
+            <p className='texto'>"Gehenna"</p>
+            <br />
+            <p className='texto'>"This Cold Black"</p>
+            <br />
+            <p className='texto'>"Wherein Lies Continue"</p>
+            <br />
+            <p className='texto'>"Snuff"</p>
+            <br />
+            <p className='texto'>"All Hope Is Gone"</p>
+            <br /><br />
+            <h2 className='subtitulo'>Vol. 3:(The Subliminal Verses)</h2>
             <br />
         </>
     )
