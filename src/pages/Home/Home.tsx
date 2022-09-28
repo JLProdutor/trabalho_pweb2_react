@@ -623,7 +623,7 @@ export const Home = () => {
             <br />
             <p className='texto'>"If Rain Is What You Want" </p>
             <br /><br />
-            <h2 className='subtiutlo'>We Are Not Your Kind</h2>
+            <h2 className='subtitulo'>We Are Not Your Kind</h2>
             <br />
             <div>
                 <img src={kind} alt="" />
